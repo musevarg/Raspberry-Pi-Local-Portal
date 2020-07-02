@@ -2,7 +2,7 @@ This is a small project that kept me busy during the Covid-19 lockdown.
 
 # Raspberry Pi Local Portal
 
-A web-based one page application that display stats about network drives and devices, internet connection and other information. It is running on a [Raspberry Pi](https://www.raspberrypi.org) and uses the [Apache Web Server](https://httpd.apache.org), [MariaDB](https://mariadb.org), [Material Design Lite](https://getmdl.io/index.html) and [d3](https://d3js.org).
+A web-based one page application that display stats about network drives and devices, internet connection and other information. It is running on a [Raspberry Pi](https://www.raspberrypi.org) and uses the [Apache Web Server](https://httpd.apache.org), [MariaDB](https://mariadb.org), [Material Design Lite](https://getmdl.io/index.html) and [d3](https://d3js.org). It uses PHP to run linux commands and return data from them.
 
 ![](https://raw.githubusercontent.com/musevarg/Raspberry-Pi-Local-Portal/master/scr1.png?token=ALYNMCCXBYITPFMCVGN62YS67X4LE)
 
