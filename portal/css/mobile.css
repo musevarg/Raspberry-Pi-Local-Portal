@@ -1,0 +1,13 @@
+@media only screen and (max-width: 768px) {
+
+	.ipinfo {
+		font-size: 15px;
+		margin-bottom: 50px;
+	}
+
+	.ipflag {
+		width: 113px;
+		height: 81px;
+	}
+
+}
