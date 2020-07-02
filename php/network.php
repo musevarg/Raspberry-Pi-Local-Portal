@@ -1,9 +1,9 @@
 <?php 
 
-$servername = "localhost";
-$username = "portal";
-$password = "portal";
-$dbname = "portal";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);

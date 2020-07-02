@@ -1,5 +1,5 @@
 <?php
-$france24 = simplexml_load_file('https://www.loudersound.com/feeds/all');
+$metalHammer = simplexml_load_file('https://www.loudersound.com/feeds/all');
 header("Access-Control-Allow-Origin: *");
-echo json_encode($france24);
+echo json_encode($metalHammer);
 ?>
